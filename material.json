@@ -1,0 +1,20 @@
+{
+    "name": "test09",
+    "title": "test09",
+    "description": "",
+    "repository": {
+        "url": "https://github.com/qiaoli900311/test09.git",
+        "private": 1,
+        "auth": {
+            "username": "qiaoli900311",
+            "password": "48111400qiaoli"
+        }
+    },
+    "map": {
+        "components": [],
+        "blocks": [],
+        "pages": [],
+        "templates": []
+    },
+    "materialId": 106
+}
